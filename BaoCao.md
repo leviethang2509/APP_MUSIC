@@ -215,27 +215,27 @@ flutter run -d android
 ## 7. MINH HỌA TỪNG MÀN HÌNH
 
 ### Hình 1. Màn hình giao diện chính của ứng dụng
-![Hình 1 - Giao diện chính](../../../FLUTER_THUCHANH/lap6_2224802010263_levietthang/images/Hinh1.jpg)
+![Hình 1 - Giao diện chính](images/Hinh1.jpg)
 
 *Hình 1 minh họa giao diện tổng quan của ứng dụng Simple Offline Music App do em xây dựng khi vừa mở, gồm khu vực danh sách nhạc, thanh điều hướng và bố cục chính của chương trình.*
 
 ### Hình 2. Màn hình chức năng tiếp theo của ứng dụng
-![Hình 2 - Màn hình chức năng](../../../FLUTER_THUCHANH/lap6_2224802010263_levietthang/images/Hinh2.jpg)
+![Hình 2 - Màn hình chức năng](images/Hinh2.jpg)
 
 *Hình 2 thể hiện một màn hình chức năng khác trong quá trình sử dụng ứng dụng, giúp minh họa rõ hơn luồng điều hướng và cách tổ chức giao diện.*
 
 ### Hình 3. Màn hình thao tác và điều khiển
-![Hình 3 - Màn hình thao tác](../../../FLUTER_THUCHANH/lap6_2224802010263_levietthang/images/Hinh3.jpg)
+![Hình 3 - Màn hình thao tác](images/Hinh3.jpg)
 
 *Hình 3 minh họa khu vực thao tác liên quan đến phát nhạc, điều khiển và tương tác của người dùng với ứng dụng.*
 
 ### Hình 4. Màn hình minh họa bổ sung
-![Hình 4 - Màn hình bổ sung](../../../FLUTER_THUCHANH/lap6_2224802010263_levietthang/images/Hinh4.jpg)
+![Hình 4 - Màn hình bổ sung](images/Hinh4.jpg)
 
 *Hình 4 cung cấp thêm một góc nhìn trực quan về ứng dụng, làm rõ bố cục hiển thị và các thành phần chức năng trên giao diện.*
 
 ### Nguồn hình ảnh sử dụng trong báo cáo
-- Thư mục ảnh tham chiếu: `C:\Users\Admin\Desktop\FLUTER_THUCHANH\lap6_2224802010263_levietthang\images`
+- Thư mục ảnh trong project: `images/`
 - Các tệp ảnh đã dùng:
   - `Hinh1.jpg`
   - `Hinh2.jpg`
